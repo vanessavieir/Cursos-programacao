@@ -1,2 +1,2 @@
 # curso-em-video
- Cursos de programação feitos por mim com o professor Gustavo Guanabara
+ Cursos de programação feitos pelo Youtube com a orientação do professor Gustavo Guanabara
