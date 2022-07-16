@@ -5,4 +5,4 @@ print('É um número?', n.isnumeric())
 print('É alfanúmerico?',n.isalnum())
 print('Contém letras maiúsculas?',n.isupper())
 print('Contém letras minúsculas?',n.islower())
-print('Está capitalizada?', n.istitle()) #contém letras maiúsculas e minúsculas
+print('Está capitalizada?', n.istitle()) # contém letras maiúsculas e minúsculas.
